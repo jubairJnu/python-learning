@@ -23,11 +23,11 @@ else:
 
 # # problem 3
 
-# number = 12
-# if(number%2 == 0):
-#     print("Number is enven");
-# else:
-#     print("Nubmer is odd");
+number = 12
+if(number%2 == 0):
+    print("Number is enven");
+else:
+    print("Nubmer is odd");
 
 # # problem 4
 
