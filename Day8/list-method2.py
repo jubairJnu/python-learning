@@ -27,3 +27,8 @@ print(a)
 
 a = [23,9880,30]
 print(max(a))
+
+# clear
+a = [23,9880,30]
+a.clear()
+print(a,"clear")
